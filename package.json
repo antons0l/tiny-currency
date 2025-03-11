@@ -1,0 +1,12 @@
+  {
+  "name": "tiny-currency",
+  "version": "1.0.0",
+  "description": "A tiny, dependency-free currency formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["currency", "formatter", "money", "lightweight"],
+  "author": "Anton Solovyov",
+  "license": "MIT"
+}
