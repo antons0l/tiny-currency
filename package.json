@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "A tiny, dependency-free currency formatter",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antons0l/tiny-currency.git"
+  },
   "scripts": {
     "test": "node test.js"
   },
