@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/antons0l/tiny-currency.git"
+    "url": "git+https://github.com/antons0l/tiny-currency.git"
   },
   "scripts": {
     "test": "node test.js"
